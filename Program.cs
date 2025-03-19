@@ -62,7 +62,7 @@ namespace MyFirstProgram
 
             Console.WriteLine("Thanks for playing! ... I guess");
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
